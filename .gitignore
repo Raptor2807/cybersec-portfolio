@@ -1,0 +1,7 @@
+captures/
+screenshots/
+reports/*.pdf
+wordlists/
+hashes/
+*.pcap
+*.pcapng
