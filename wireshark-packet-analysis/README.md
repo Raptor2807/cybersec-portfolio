@@ -74,15 +74,26 @@ Demonstrate the difference between plaintext vs. encrypted protocols and practic
 
 ## 📂 Project Structure
 wireshark-packet-analysis/
+
 ├── README.md # this file
+
 ├── captures/
+
 │ └── Capture.pcapng # saved capture file
+
+
 ├── screenshots/
+
 │ ├── Screenshot 2025-08-20 160503.png
+
 │ ├── Screenshot 2025-08-20 160527.png
+
 │ ├── Screenshot 2025-08-20 160617.png
+
 │ └── Screenshot 2025-08-20 160719.png
+
 └── reports/
+
 └── analysis-2025-08-20.md
 
 ---
