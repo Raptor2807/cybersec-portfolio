@@ -1,0 +1,7 @@
+$2b$12$tdsmIjQU5MJTPfzosPaQbO4MsCbhQUIUumAucBc0DgK.03oJBsunS:password
+$2b$12$QarxWGoSz9SuGfp.txLOte7QS6YGIYnkQ7otf7YVxH7mPGsB.3Ym6:password123
+$2b$12$Jkemo9LKhRnIEwy5lNiVXeRGeSXsMEroguVlmqUSV33lN/FG0ppHG:P@ssw0rd!
+$2b$12$0hfxu4tfMENkAYuBKUP.XOOBteIWaSvhr7XuuwibZnSMu/iV181pS:letmein
+$2b$12$uvr6yw7GmFS4TT3Ye6frFufbS/0yQmh69N2YQ88afMgHTEiD.eh0a:qwerty
+$2b$12$CN6tfeIFKlePxnXCbY7t.uauwevaZs7mkotnh8HwW0L7sVHiBVyOq:correcthorsebatterystaple
+$2b$12$4SptceLkVsaqAWDt0.w2o.BqD5cQDjMs3ZODhNU6k6xqjzAVnfoFu:summer2025
